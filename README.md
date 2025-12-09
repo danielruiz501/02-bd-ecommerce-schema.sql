@@ -1,4 +1,4 @@
-Bd-ecommerce-schema.sql
+Bd ecommerce schema
 
 CREATE DATABASE ecommerce;
 USE ecommerce;
